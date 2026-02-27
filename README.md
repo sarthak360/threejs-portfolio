@@ -1,4 +1,5 @@
-<img width="1967" height="876" alt="image" src="https://github.com/user-attachments/assets/74aec4d8-396e-4d99-8b7a-26cb43a4ed26" />
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/d206b015-b28f-4104-8aa1-eab74c344b57" />
+
 <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/9f6467f4-3b4f-46fa-b19b-a4c85d62721b" />
 
 🚀 3D Developer Portfolio
